@@ -37,10 +37,16 @@ overall passing. THS now appeared as part of the top five schools.
 
 ###
 o	Math and reading scores for ninth graders at THS reflect as NaN. They do not impact the math and reading scores of other grades and schools.
+
+###
 o	Spending ranges are based on school budget divided by number of students at each school. Ninth graders at THS were not excluded from this calculation. 
 Scores by school spending did not change. 
+
+###
 o	School sizes are based on total number of students at each school. Ninth graders at THS were not excluded from this calculation. Scores by school size 
 did not change. 
+
+###
 o	Scores by school type show the average math score, average reading score, percentage passing math, percentage passing reading and percentage overall 
 passing by school type, i.e. Charter or District. The above values were impacted for school type District only as THS is a charter school. 
 
