@@ -36,7 +36,7 @@ overall passing. THS now appeared as part of the top five schools.
 •	Impact of replacing THS ninth-grade scores:
 
 ###
-   o	Math and reading scores for ninth graders at THS reflect as NaN. They do not impact the math and reading scores of other grades and schools.
+o	Math and reading scores for ninth graders at THS reflect as NaN. They do not impact the math and reading scores of other grades and schools.
 
 ###
 o	Spending ranges are based on school budget divided by number of students at each school. Ninth graders at THS were not excluded from this calculation. 
