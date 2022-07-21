@@ -2,13 +2,11 @@
 
 # 
 Purpose
-
 ##
 The purpose of this analysis is to replace the reading and math scores for ninth graders at Thomas High School and accordingly update district and school summary data. 
 
 # 
 Results
-
 ## 
 As scores for ninth graders at Thomas High School appear to have been altered, the scores were replaced with values not as numbers (NaN). NaN values are
 not considered when calculating averages. The loc() function was used to retrieve the reading and math scores for students at Thomas High School (THS) and 
@@ -65,7 +63,6 @@ passing by school type, i.e. Charter or District. The above values were impacted
 
 #
 Summary
-
 ##
 After replacing reading and math scores for the ninth graders at Thomas High School, changes were noted in 1.) math and reading average scores at the
 district level, including changes to percentage passing for math, reading and overall, 2.) the percentage passing math, reading and overall for THS
